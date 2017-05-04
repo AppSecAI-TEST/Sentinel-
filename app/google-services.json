@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282000891692",
+    "firebase_url": "https://sentinel-server-cb3fe.firebaseio.com",
+    "project_id": "sentinel-server-cb3fe",
+    "storage_bucket": "sentinel-server-cb3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282000891692:android:2471baede60b474b",
+        "android_client_info": {
+          "package_name": "rexzen.sentinelserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282000891692-hre4dc19ja2gskn153ma0bi6niankcsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeARGw2KM7ONu4sARYNJhWSZpvxJ1qzOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
